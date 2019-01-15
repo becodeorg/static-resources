@@ -18,4 +18,4 @@ To access a file you put in this repo just use the URL `https://static.becode.xy
 
 * * *
 
-January 2019, [Nicolas V.](https://nicolas-van.github.io)@[BeCode](https://becode.org).
+January 2019, [Nicolas V.](https://github.com/nicolas-van)@[BeCode](https://becode.org).
