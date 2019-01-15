@@ -1,4 +1,4 @@
-# BeCode: static-ressources
+# BeCode: static-resources
 
 > ⚙️ Host for _static files_ at BeCode
 
